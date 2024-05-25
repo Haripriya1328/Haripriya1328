@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Angular, Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://haripriya1328.github.io/IBM-PORTFOLIO-PROJECT/](https://haripriya1328.github.io/IBM-PORTFOLIO-PROJECT/)
+- 👨‍💻 Passionate Backend Developer
 
 - 💬 Ask me about **reactjs, nodejs, jenkins**
 
